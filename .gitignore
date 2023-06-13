@@ -1,0 +1,16 @@
+/.idea
+/*.iml
+# Local temp directories
+**/tmp/*
+
+# Swatch files are generated thumbnails for shader used to speed up hypershade
+# and there is no need to check in as they will be regenerated when opened.
+**/.mayaSwatches/*.swatches
+**/.mayaSwatches/*.swatch
+
+
+# Renderman generated texture data
+**/*.png.tex
+**/*.exr.tex
+**/*.jpg.tex
+**/*.jpeg.tex
