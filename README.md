@@ -45,3 +45,18 @@ Files: `scenes/Walker/walker_rig.mb`
 
 Source: https://decogged.com/products/walker
 License: You are allowed to use the "Walker" rig for your personal, non-commercial internal use only. Please credit Decogged for the rig in your showreel or work!
+
+## Whipper rig
+
+This is Whipper. A great, easy to use rig, for learning or practicing overlapping action and follow through.
+
+Features:
+* Pose space deformation for appealing tail shapes
+* Intuitive and simple controls
+* X, Y, Z bands to easily visualize rotations
+* Parent switching for the tail
+
+Files: `scenes/Whipper/rig_whipper.mb`
+
+Source: https://decogged.com/products/whipper
+License: You are allowed to use the "WHIPPER" rig for your personal, non-commercial internal use only. Please credit Decogged for the rig in your showreel or work!
