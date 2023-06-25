@@ -60,3 +60,13 @@ Files: `scenes/Whipper/rig_whipper.mb`
 
 Source: https://decogged.com/products/whipper
 License: You are allowed to use the "WHIPPER" rig for your personal, non-commercial internal use only. Please credit Decogged for the rig in your showreel or work!
+
+## Chameleon v2.3
+
+Chameleon Cartoony Maya Rig made by Truong.
+Concept art by Chunli Thien Nguyen
+
+Files: `scenes/Chameleon/* sourceimages/Chameleon/*`
+
+Source: https://truongcgartist.gumroad.com/l/chameleonrig
+License: Non-commercial/Demo Reel
