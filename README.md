@@ -2,6 +2,14 @@
 
 A collection of freely available rigs that I have collected to learn from. The rigs, models and textures are all the works of other individuals with minor touchups from me.
 
+Scripts for rigging available at:
+* https://antcgi.gumroad.com/l/MayaScriptPack (The most highly recommended set)
+
+More rigs available at:
+* https://www.gameanim.com/book/tutorials/
+* https://trevital.gumroad.com/
+* https://conceptartempire.com/free-maya-rigs/
+
 ## Tiger Anthro rig
 
 Features:
