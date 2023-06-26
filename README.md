@@ -70,3 +70,23 @@ Files: `scenes/Chameleon/* sourceimages/Chameleon/*`
 
 Source: https://truongcgartist.gumroad.com/l/chameleonrig
 License: Non-commercial/Demo Reel
+
+
+## Chameleon v2.3
+
+Chameleon Cartoony Maya Rig made by Truong.
+Concept art by Chunli Thien Nguyen
+
+Files: `scenes/Chameleon/* sourceimages/Chameleon/*`
+
+## AZRI
+
+The AZRI Rig is a simple animation rig for non-commercial game animation education and prototyping that distributed to support the book "Game Anim: Video Game Animation Explained" (See https://www.gameanim.com/book/).
+
+AZRI character by Matthew Bachnick.
+Rig by Sol Brennan.
+
+Files> `scenes\Azri\* sourceimages\Azri\*`
+
+Source: https://www.gameanim.com/product/azri-rig/
+License: Non-commercial
